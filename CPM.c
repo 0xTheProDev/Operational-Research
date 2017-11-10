@@ -1,5 +1,5 @@
 /**
- * Ntework Problem: Critical Path Method
+ * Network Problem: Critical Path Method
  * Author: Progyan Bhattacharya <progyanb@acm.org>
  * Repo: Operational-Research [MIT LICENSE]
  */
