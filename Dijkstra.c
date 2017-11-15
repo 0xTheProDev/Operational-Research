@@ -1,3 +1,9 @@
+/**
+ * Single Source Shortest Path: Dijkstra's Algorithm
+ * Author: Progyan Bhattacharya <progyanb@acm.org>
+ * Repo: Operational-Research [MIT LICENSE]
+ */
+
 #include <limits.h>
 #include <stdio.h>
 #include <stdlib.h>
